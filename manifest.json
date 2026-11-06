@@ -1,45 +1,45 @@
 {
   "bracket": "master_plus",
   "files": {
-    "set18/16.20/master_plus/augments.json": {
+    "set18/16.21/master_plus/augments.json": {
       "bytes": 2,
       "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
     },
-    "set18/16.20/master_plus/comps.json": {
-      "bytes": 277979,
-      "sha256": "f5133339783309eb80b36620c13b973180cb0b0198a0af41d80ee4ab5fa9e13d"
+    "set18/16.21/master_plus/comps.json": {
+      "bytes": 259560,
+      "sha256": "336e361b8790c488621947df740fbdcbd94b38aa086a0e2bd30ab6186a039388"
     },
-    "set18/16.20/master_plus/items.json": {
-      "bytes": 23439,
-      "sha256": "4df3574f6e9d7cf774f9b347d99861a345fc3205ba58837af90478a520a4e874"
+    "set18/16.21/master_plus/items.json": {
+      "bytes": 23319,
+      "sha256": "693ab8781701a013b9f77eeb72104ffe3010b1068583df2fb8e21ddcfcce0fd5"
     },
-    "set18/16.20/master_plus/traits.json": {
-      "bytes": 13868,
-      "sha256": "c14e63099ed9a57d5951b91be6788a57a6f872e265e6cad8d10b2d00a5dabc33"
+    "set18/16.21/master_plus/traits.json": {
+      "bytes": 13418,
+      "sha256": "3cf17bd7e5c134be9867f2dfce8285196e86cda43a75bb93d65f3e483399a955"
     },
-    "set18/16.20/master_plus/unit_builds.json": {
-      "bytes": 357106,
-      "sha256": "f43168af63eac7323dc5409802fc113329625986a7f2499c940e3b5837c1b4f3"
+    "set18/16.21/master_plus/unit_builds.json": {
+      "bytes": 352104,
+      "sha256": "4cd90c79a714cb8ac98f92661289104c20fbbfc573c7287dec8c591b928d4364"
     },
-    "set18/16.20/master_plus/unit_items.json": {
-      "bytes": 322125,
-      "sha256": "8502308f0b5e3dae6e4e590468c71fe4d2fb2c7a1d9ff9d8afd580dcf5e3d7c5"
+    "set18/16.21/master_plus/unit_items.json": {
+      "bytes": 312677,
+      "sha256": "aa1b9c14357d5b522686fc442db9c0eec904a00aed9625f3040f736197bc9927"
     },
-    "set18/16.20/master_plus/units.json": {
-      "bytes": 28176,
-      "sha256": "613a6b9662aba6934ab382d68d5446dc0c40d5702172d0e35c30a0e256015d97"
+    "set18/16.21/master_plus/units.json": {
+      "bytes": 28170,
+      "sha256": "e99a4c29b38772c0929cd4379d14cd3986a9a8e9a32774b54784b8bb40e3bc8c"
     },
     "set18/names.json": {
       "bytes": 151174,
       "sha256": "14b144b00fc850d1134ecf00d578cbbd2abda17d2226cce7e40d49a4a9d08de7"
     }
   },
-  "games_total": 9561,
-  "generated_at": "2026-11-05T10:01:50.181576372+00:00",
-  "matches_total": 4624,
-  "patch": "16.20",
+  "games_total": 9117,
+  "generated_at": "2026-11-06T09:55:57.502378852+00:00",
+  "matches_total": 4586,
+  "patch": "16.21",
   "region": "global",
   "schema_version": 1,
   "set": 18,
-  "snapshot_id": 40
+  "snapshot_id": 41
 }
